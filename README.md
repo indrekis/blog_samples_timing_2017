@@ -4,6 +4,8 @@ Samples for several my blog posts on performance measurements
 
 Mainly in Ukrainian.
 
+1. [Вимірювання часу роботи коду](http://indrekis2.blogspot.com/2017/07/blog-post.html)
+
 - Для компідяції PCM -- скрипт build_pcm_test.sh 
 - Для всього решта -- CMakeLists.txt 
 
